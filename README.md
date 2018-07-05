@@ -1,5 +1,6 @@
 # Tutoring_QA
+~~~php
 <?php
-    test
-    git practice
+    echo "hi";
 ?>
+~~~
