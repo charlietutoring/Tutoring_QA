@@ -1,8 +1,12 @@
 # Tutoring_QA
-~~~php
-<?php
-sadfasdf;
-    echo "hi";
-?>
-~~~
-QA 깃허브 테스트해보고 있습니다. :)
+튜터링 앱의 전체적인 구조를 보기 위한 저장소입니다.
+
+![](/assets/tutal.png)
+
+## :memo: Table of Contents
+
+* [마인드 맵](#마인드-맵)
+
+
+
+### 마인드 맵
